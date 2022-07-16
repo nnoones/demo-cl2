@@ -1,4 +1,4 @@
-#demo-cl2
+# demo-cl2
 
 A second test repository for more command line fun.
 
